@@ -1,0 +1,2 @@
+print_ln("Hello world!")
+a = cint(5)
